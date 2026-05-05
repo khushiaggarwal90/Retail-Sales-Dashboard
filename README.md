@@ -1,4 +1,4 @@
-                                                📊 Retail Sales Dashboard  
+                                                   📊 Retail Sales Dashboard  
 
 
 
@@ -56,6 +56,7 @@ The dashboard provides insights such as:
 ---
 
  📊 Dataset Link 
+ 
              https://docs.google.com/spreadsheets/d/1qZvk4__UswGv8CeXrVtRlRnizwQeY9hr/edit?usp=sharing&ouid=104972180971660256233&rtpof=true&sd=true
   
 
