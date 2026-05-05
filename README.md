@@ -22,9 +22,11 @@ The dataset used in this project contains the following columns:
 - Quantity  
 - Unit Price  
 - City
--Region
--Payment Mode
--Total Sales
+- Region
+- Payment Mode
+- Total sales
+  
+
 
 ---
 
